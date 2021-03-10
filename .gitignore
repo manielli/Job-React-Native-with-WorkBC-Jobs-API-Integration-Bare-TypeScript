@@ -632,3 +632,5 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/react,reactnative,macos,linux,node,ruby,rails,windows,cocoapods,xcode
 
 CertificateSigningRequest.certSigningRequest
+
+constants.ts
